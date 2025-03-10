@@ -23,7 +23,7 @@
 
 ## **Installation**
 ### **Install via DMG**
-1. **Download the latest version** from [GitHub Releases](https://github.com/username/weblink-app/releases).
+1. **Download the latest version** from [GitHub Releases]((https://github.com/AbdulrahmanALHakami/WebLink.app.git)).
 2. **Open the `weblink.dmg` file**.
 3. **Drag the app into the `Applications` folder**.
 
